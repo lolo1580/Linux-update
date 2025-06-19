@@ -16,7 +16,7 @@ Un petit script bash pour maintenir à jour un système Ubuntu : il met à jour 
 1. Télécharge le script :
 
 ```bash
-wget https://raw.githubusercontent.com/<utilisateur>/<repo>/main/maintenance.sh
+wget https://raw.githubusercontent.com/lolo1580/Linux-update/main/maintenance.sh
 chmod +x maintenance.sh
 ```
 
